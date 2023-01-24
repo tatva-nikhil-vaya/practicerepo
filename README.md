@@ -1,2 +1,2 @@
 # practicerepo
-practice
+practice git and github
